@@ -1,8 +1,15 @@
+## Description
+
+应用退到后台后无法查看应用快照
+
+
 ## Screenshots
 
 <img src="screenshots/screenshots-iphonex.png" width="375"/>&nbsp;
 <img src="screenshots/screenshots-iphone7.png" width="375"/>&nbsp;
 
+
+### 修复部分机型应用退到后台 黑屏的问题
 
 PrivacyScreenPlugin
 ==================
