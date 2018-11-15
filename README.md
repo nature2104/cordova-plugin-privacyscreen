@@ -1,3 +1,9 @@
+## Screenshots
+
+<img src="screenshots/screenshots-iphonex.png" width="375"/>&nbsp;
+<img src="screenshots/screenshots-iphone7.png" width="375"/>&nbsp;
+
+
 PrivacyScreenPlugin
 ==================
 
